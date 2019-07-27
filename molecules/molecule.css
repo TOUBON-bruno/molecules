@@ -1,0 +1,16 @@
+#aire_de_jeu {
+	display:grid;
+	grid-template-columns: 642px 158fr;
+	grid-template-rows: 482px;
+	border-style:solid;
+	border-width:1px;
+	border-color:black;
+}
+
+#canvas_jeu {
+	/* height:480px;
+	width:640px;
+	border-style:solid;
+	border-width:1px;
+	border-color:black; */
+}	
